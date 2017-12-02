@@ -1,0 +1,56 @@
+
+.body {
+	background-image: url("background1.jpg");
+	margin: -5px;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+
+}
+
+.namebox {
+	padding: 20px;
+
+}
+
+.buttons {
+	padding: 30px;
+
+
+}
+
+.aboutme {
+	padding: 20px;
+	text-align: center;
+}
+
+.contactme {
+	padding: 20px;
+	text-align: center;
+
+}
+
+.footer {
+	text-align: center;
+}
+
+.contact {
+	background-image: url("background2.jpg");
+	color: white;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+#portfolio {
+	background-image: url("background3.jpg");
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+}
+
+.contactform {
+	text-align: center;
+	align-items: center
+}
+
+
